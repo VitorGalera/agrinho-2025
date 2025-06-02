@@ -1,1 +1,2 @@
-# agrinho-2025
+# Festejando campo-cidade
+meu site é um espaço digital que celebra a integração entre o meio rural e o urbano, com ênfase nos desafios e soluções para a sustentabilidade em áreas vitais como água e energia. O site oferece uma abordagem inovadora sobre como as diferentes realidades dessas duas regiões podem colaborar para um futuro mais sustentável e equilibrado. Ele também visa maior concientiação sobre a importância da integração entre esses dois espaços.
